@@ -225,3 +225,5 @@ TODO
  Strict conformance with Atom spec
  Recognize when field rewriting rules are used
  Represent multiple-valued fields using nested child elements
+
+Making a pull request
